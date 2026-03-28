@@ -380,16 +380,7 @@ sec-litigation-scraper/
     samples/                         Sample output files
 ```
 
----
-
-## License
-
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
-
----
-
 ## Acknowledgments
 
-- CIPS Lab, School of Computing and Augmented Intelligence, Arizona State University
-- Prof. Hasan Davulcu -- Research supervision
 - U.S. Securities and Exchange Commission for public access to enforcement data via SEC.gov and EDGAR
+- Claude (Anthropic) -- Assisted with code development, debugging, and documentation
