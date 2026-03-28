@@ -16,7 +16,6 @@ A scalable data extraction pipeline for SEC.gov enforcement litigation releases.
 - [PDF Analysis Pipeline](#pdf-analysis-pipeline)
 - [HPC Deployment (ASU Sol)](#hpc-deployment-asu-sol)
 - [Project Structure](#project-structure)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ---
