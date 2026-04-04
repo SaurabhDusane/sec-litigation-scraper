@@ -1,1 +1,9 @@
+# Large Sample Files (External)
 
+This file is not included in the repository due to GitHub's 25MB size limit.
+
+Download here:
+https://drive.google.com/file/d/1MFdAlob31V0gCB2edQZtUjAhtkCOlaH4/view?usp=sharing
+
+After downloading, place it in:
+samples/large_sample_files.txt
