@@ -1,0 +1,1102 @@
+[
+  {
+    "argument_id": "charge::exchange_act_s_15b_e_7",
+    "score": 1.0
+  },
+  {
+    "argument_id": "charge::exchange_act_s_15b_e_4_a",
+    "score": 1.0
+  },
+  {
+    "argument_id": "charge::exchange_act_s_30a_a",
+    "score": 1.0
+  },
+  {
+    "argument_id": "charge::inv_company_act_s_15_c",
+    "score": 1.0
+  },
+  {
+    "argument_id": "charge::exchange_act_s_32",
+    "score": 1.0
+  },
+  {
+    "argument_id": "charge::17_cfr_s_200_80",
+    "score": 0.9906
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_14e_31",
+    "score": 0.988
+  },
+  {
+    "argument_id": "charge::exchange_act_s_21b",
+    "score": 0.9821
+  },
+  {
+    "argument_id": "charge::exchange_act_s_15_b_4",
+    "score": 0.9792
+  },
+  {
+    "argument_id": "charge::17_cfr_s_242_105",
+    "score": 0.9769
+  },
+  {
+    "argument_id": "charge::exchange_act_s_19_h",
+    "score": 0.9768
+  },
+  {
+    "argument_id": "charge::advisers_act_s_203_k",
+    "score": 0.9761
+  },
+  {
+    "argument_id": "charge::rule_17a_4_b",
+    "score": 0.9756
+  },
+  {
+    "argument_id": "charge::inv_company_act_s_22_c",
+    "score": 0.9755
+  },
+  {
+    "argument_id": "charge::exchange_act_s_2i_d",
+    "score": 0.9751
+  },
+  {
+    "argument_id": "charge::17_cfr_s_201_1001",
+    "score": 0.9747
+  },
+  {
+    "argument_id": "charge::17_cfr_s_201_323",
+    "score": 0.9738
+  },
+  {
+    "argument_id": "charge::exchange_act_s_21_e_1",
+    "score": 0.9736
+  },
+  {
+    "argument_id": "charge::advisers_act_s_203_e",
+    "score": 0.9708
+  },
+  {
+    "argument_id": "charge::rule_10b_10",
+    "score": 0.9707
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_14a_9",
+    "score": 0.9697
+  },
+  {
+    "argument_id": "charge::inv_company_act_s_9_b",
+    "score": 0.9686
+  },
+  {
+    "argument_id": "charge::rule_13132_2",
+    "score": 0.9677
+  },
+  {
+    "argument_id": "charge::rule_16a_1",
+    "score": 0.9663
+  },
+  {
+    "argument_id": "charge::exchange_act_s_7_f",
+    "score": 0.9655
+  },
+  {
+    "argument_id": "charge::exchange_act_s_21a_a",
+    "score": 0.9655
+  },
+  {
+    "argument_id": "charge::sox_s_308",
+    "score": 0.9653
+  },
+  {
+    "argument_id": "charge::17_cfr_s_201_110",
+    "score": 0.9652
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_14a_91",
+    "score": 0.965
+  },
+  {
+    "argument_id": "charge::rule_22c_1",
+    "score": 0.9633
+  },
+  {
+    "argument_id": "charge::rule_13a_11",
+    "score": 0.9631
+  },
+  {
+    "argument_id": "charge::exchange_act_s_15_b_6_b",
+    "score": 0.9613
+  },
+  {
+    "argument_id": "charge::exchange_act_s_15_g",
+    "score": 0.9611
+  },
+  {
+    "argument_id": "charge::rule_12b_25",
+    "score": 0.9607
+  },
+  {
+    "argument_id": "charge::exchange_act_s_15_c_1_a",
+    "score": 0.9579
+  },
+  {
+    "argument_id": "charge::exchange_act_s_10_b_5",
+    "score": 0.9574
+  },
+  {
+    "argument_id": "charge::17_cfr_s_201_220",
+    "score": 0.957
+  },
+  {
+    "argument_id": "charge::rule_14a_3",
+    "score": 0.9569
+  },
+  {
+    "argument_id": "charge::securities_act_s_17",
+    "score": 0.9568
+  },
+  {
+    "argument_id": "charge::rule_3_2",
+    "score": 0.9564
+  },
+  {
+    "argument_id": "charge::exchange_act_s_21_d_l",
+    "score": 0.9561
+  },
+  {
+    "argument_id": "charge::exchange_act_s_20",
+    "score": 0.9554
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_13a_15",
+    "score": 0.9544
+  },
+  {
+    "argument_id": "charge::advisers_act_s_203_a",
+    "score": 0.9544
+  },
+  {
+    "argument_id": "charge::securities_act_s_20_d_l",
+    "score": 0.9537
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_14e_3",
+    "score": 0.9535
+  },
+  {
+    "argument_id": "charge::inv_company_act_s_42_d",
+    "score": 0.9532
+  },
+  {
+    "argument_id": "charge::exchange_act_s_12_k",
+    "score": 0.953
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_13a_13",
+    "score": 0.9525
+  },
+  {
+    "argument_id": "charge::sox_s_302",
+    "score": 0.9513
+  },
+  {
+    "argument_id": "charge::exchange_act_s_15_c_3",
+    "score": 0.9512
+  },
+  {
+    "argument_id": "topic::churning",
+    "score": 0.9509
+  },
+  {
+    "argument_id": "charge::exchange_act_s_14_a",
+    "score": 0.9504
+  },
+  {
+    "argument_id": "topic::late_trading",
+    "score": 0.9501
+  },
+  {
+    "argument_id": "charge::exchange_act_s_15",
+    "score": 0.9494
+  },
+  {
+    "argument_id": "charge::rule_3_2_c",
+    "score": 0.9485
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_13a_1",
+    "score": 0.9484
+  },
+  {
+    "argument_id": "charge::exchange_act_s_10b",
+    "score": 0.948
+  },
+  {
+    "argument_id": "charge::exchange_act_s_4_a",
+    "score": 0.9479
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_13d_101",
+    "score": 0.9479
+  },
+  {
+    "argument_id": "charge::exchange_act_s_13",
+    "score": 0.9479
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_13a_11",
+    "score": 0.9476
+  },
+  {
+    "argument_id": "charge::rule_14a_9",
+    "score": 0.9473
+  },
+  {
+    "argument_id": "scheme::prime_bank_fraud",
+    "score": 0.9472
+  },
+  {
+    "argument_id": "charge::exchange_act_s_13_b_2",
+    "score": 0.9471
+  },
+  {
+    "argument_id": "scheme::market_manipulation",
+    "score": 0.9458
+  },
+  {
+    "argument_id": "charge::exchange_act_s_13_d_1",
+    "score": 0.9457
+  },
+  {
+    "argument_id": "charge::securities_act_s_4_a_1",
+    "score": 0.9451
+  },
+  {
+    "argument_id": "charge::rule_15d_1",
+    "score": 0.9448
+  },
+  {
+    "argument_id": "charge::exchange_act_s_12_g",
+    "score": 0.9431
+  },
+  {
+    "argument_id": "charge::17_cfr_s_230_501",
+    "score": 0.9422
+  },
+  {
+    "argument_id": "charge::17_cfr_s_230_144",
+    "score": 0.9422
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_15d_1",
+    "score": 0.9417
+  },
+  {
+    "argument_id": "charge::exchange_act_s_15_b_6_b_i",
+    "score": 0.9414
+  },
+  {
+    "argument_id": "charge::securities_act_s_20_a",
+    "score": 0.9412
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_13a",
+    "score": 0.9412
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_15c",
+    "score": 0.9411
+  },
+  {
+    "argument_id": "charge::exchange_act_s_13_a",
+    "score": 0.9405
+  },
+  {
+    "argument_id": "charge::exchange_act_s_13_b_2_b",
+    "score": 0.9403
+  },
+  {
+    "argument_id": "charge::securities_act_s_10_b",
+    "score": 0.9397
+  },
+  {
+    "argument_id": "charge::exchange_act_s_3_a_1",
+    "score": 0.9396
+  },
+  {
+    "argument_id": "charge::advisers_act_s_206",
+    "score": 0.9383
+  },
+  {
+    "argument_id": "charge::exchange_act_s_13_b_5",
+    "score": 0.9382
+  },
+  {
+    "argument_id": "charge::exchange_act_s_3_a_51",
+    "score": 0.9376
+  },
+  {
+    "argument_id": "charge::exchange_act_s_20_d",
+    "score": 0.9373
+  },
+  {
+    "argument_id": "charge::securities_act_s_8a",
+    "score": 0.9372
+  },
+  {
+    "argument_id": "charge::rule_13a_13",
+    "score": 0.9369
+  },
+  {
+    "argument_id": "scheme::accounting_fraud",
+    "score": 0.9368
+  },
+  {
+    "argument_id": "charge::exchange_act_s_12_j",
+    "score": 0.9365
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_10",
+    "score": 0.9365
+  },
+  {
+    "argument_id": "charge::rule_10b_3",
+    "score": 0.9362
+  },
+  {
+    "argument_id": "charge::17_cfr_s_230_506",
+    "score": 0.9359
+  },
+  {
+    "argument_id": "charge::exchange_act_s_13_b_2_a",
+    "score": 0.9351
+  },
+  {
+    "argument_id": "charge::exchange_act_s_21_d_7",
+    "score": 0.9349
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_13b",
+    "score": 0.9341
+  },
+  {
+    "argument_id": "admission::without_admitting_or_denying",
+    "score": 0.934
+  },
+  {
+    "argument_id": "charge::rule_12b_20",
+    "score": 0.9335
+  },
+  {
+    "argument_id": "charge::exchange_act_s_15_a_l",
+    "score": 0.9327
+  },
+  {
+    "argument_id": "charge::securities_act_s_2_1",
+    "score": 0.9326
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_12b_20",
+    "score": 0.932
+  },
+  {
+    "argument_id": "charge::exchange_act_s_12_b",
+    "score": 0.9312
+  },
+  {
+    "argument_id": "topic::revenue_recognition_fraud",
+    "score": 0.9311
+  },
+  {
+    "argument_id": "charge::exchange_act_s_2l_d",
+    "score": 0.9306
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_10b_51",
+    "score": 0.9303
+  },
+  {
+    "argument_id": "charge::securities_act_s_20_d_1",
+    "score": 0.9297
+  },
+  {
+    "argument_id": "topic::market_manipulation",
+    "score": 0.9286
+  },
+  {
+    "argument_id": "scheme::false_filings",
+    "score": 0.9285
+  },
+  {
+    "argument_id": "charge::advisers_act_s_214_a",
+    "score": 0.9284
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_1o",
+    "score": 0.9282
+  },
+  {
+    "argument_id": "charge::advisers_act_s_206_3",
+    "score": 0.9282
+  },
+  {
+    "argument_id": "charge::advisers_act_s_209_e_1",
+    "score": 0.9273
+  },
+  {
+    "argument_id": "charge::exchange_act_s_21_d_1",
+    "score": 0.927
+  },
+  {
+    "argument_id": "charge::exchange_act_s_2l_d_2",
+    "score": 0.9269
+  },
+  {
+    "argument_id": "topic::internal_controls_failure",
+    "score": 0.9263
+  },
+  {
+    "argument_id": "scheme::boiler_room",
+    "score": 0.9251
+  },
+  {
+    "argument_id": "charge::exchange_act_s_21",
+    "score": 0.9236
+  },
+  {
+    "argument_id": "charge::rule_13a_1",
+    "score": 0.9227
+  },
+  {
+    "argument_id": "charge::exchange_act_s_20_e",
+    "score": 0.9221
+  },
+  {
+    "argument_id": "charge::rule_14e_3",
+    "score": 0.9215
+  },
+  {
+    "argument_id": "scheme::misappropriation",
+    "score": 0.9208
+  },
+  {
+    "argument_id": "charge::exchange_act_s_9_a_2",
+    "score": 0.9207
+  },
+  {
+    "argument_id": "charge::rule_13a_14",
+    "score": 0.9207
+  },
+  {
+    "argument_id": "charge::exchange_act_s_27",
+    "score": 0.9204
+  },
+  {
+    "argument_id": "charge::exchange_act_s_15_a",
+    "score": 0.9202
+  },
+  {
+    "argument_id": "charge::exchange_act_s_15_b",
+    "score": 0.9202
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_13a_14",
+    "score": 0.9198
+  },
+  {
+    "argument_id": "charge::sox_s_304",
+    "score": 0.9196
+  },
+  {
+    "argument_id": "charge::securities_act_s_5_a",
+    "score": 0.9193
+  },
+  {
+    "argument_id": "charge::securities_act_s_5_c",
+    "score": 0.9192
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_16a_3",
+    "score": 0.9178
+  },
+  {
+    "argument_id": "charge::securities_act_s_22_a",
+    "score": 0.9177
+  },
+  {
+    "argument_id": "charge::exchange_act_s_21a",
+    "score": 0.9172
+  },
+  {
+    "argument_id": "topic::misappropriation",
+    "score": 0.9171
+  },
+  {
+    "argument_id": "charge::exchange_act_s_21_d_6",
+    "score": 0.9166
+  },
+  {
+    "argument_id": "charge::securities_act_s_17_a_l",
+    "score": 0.9162
+  },
+  {
+    "argument_id": "scheme::other_fraud",
+    "score": 0.9157
+  },
+  {
+    "argument_id": "topic::insider_trading",
+    "score": 0.9155
+  },
+  {
+    "argument_id": "topic::accounting_fraud",
+    "score": 0.9145
+  },
+  {
+    "argument_id": "scheme::investment_adviser_fraud",
+    "score": 0.9144
+  },
+  {
+    "argument_id": "scheme::unclassified",
+    "score": 0.9144
+  },
+  {
+    "argument_id": "charge::securities_act_s_20_b",
+    "score": 0.9144
+  },
+  {
+    "argument_id": "topic::broker_dealer_violations",
+    "score": 0.9141
+  },
+  {
+    "argument_id": "topic::material_misrepresentation",
+    "score": 0.9139
+  },
+  {
+    "argument_id": "charge::rule_204_2",
+    "score": 0.9138
+  },
+  {
+    "argument_id": "charge::exchange_act_s_10_b",
+    "score": 0.9134
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_10b",
+    "score": 0.9134
+  },
+  {
+    "argument_id": "topic::securities_fraud",
+    "score": 0.9132
+  },
+  {
+    "argument_id": "scheme::ponzi_scheme",
+    "score": 0.9129
+  },
+  {
+    "argument_id": "charge::exchange_act_s_21_e",
+    "score": 0.9126
+  },
+  {
+    "argument_id": "charge::exchange_act_s_14_e",
+    "score": 0.9125
+  },
+  {
+    "argument_id": "charge::rule_10b_5",
+    "score": 0.9123
+  },
+  {
+    "argument_id": "charge::exchange_act_s_12",
+    "score": 0.9117
+  },
+  {
+    "argument_id": "charge::securities_act_s_22",
+    "score": 0.9116
+  },
+  {
+    "argument_id": "admission::admitted_allegations",
+    "score": 0.9113
+  },
+  {
+    "argument_id": "charge::exchange_act_s_21_d",
+    "score": 0.9112
+  },
+  {
+    "argument_id": "charge::exchange_act_s_15_d",
+    "score": 0.911
+  },
+  {
+    "argument_id": "topic::crypto_digital_assets",
+    "score": 0.9105
+  },
+  {
+    "argument_id": "charge::exchange_act_s_13_b",
+    "score": 0.9098
+  },
+  {
+    "argument_id": "admission::consented_to_judgment_order",
+    "score": 0.9097
+  },
+  {
+    "argument_id": "charge::securities_act_s_20_g",
+    "score": 0.9095
+  },
+  {
+    "argument_id": "topic::books_records",
+    "score": 0.9093
+  },
+  {
+    "argument_id": "charge::exchange_act_s_27_a",
+    "score": 0.9091
+  },
+  {
+    "argument_id": "charge::securities_act_s_17_a",
+    "score": 0.909
+  },
+  {
+    "argument_id": "charge::exchange_act_s_3_a_10",
+    "score": 0.909
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_10b_5",
+    "score": 0.9089
+  },
+  {
+    "argument_id": "charge::exchange_act_s_20_a",
+    "score": 0.9084
+  },
+  {
+    "argument_id": "charge::rule_204_2_a",
+    "score": 0.9075
+  },
+  {
+    "argument_id": "charge::exchange_act_s_21_d_2",
+    "score": 0.9073
+  },
+  {
+    "argument_id": "charge::exchange_act_s_9_a",
+    "score": 0.9069
+  },
+  {
+    "argument_id": "scheme::misrepresentation",
+    "score": 0.9068
+  },
+  {
+    "argument_id": "topic::unregistered_securities",
+    "score": 0.9065
+  },
+  {
+    "argument_id": "charge::securities_act_s_20_d",
+    "score": 0.9061
+  },
+  {
+    "argument_id": "charge::securities_act_s_20",
+    "score": 0.9061
+  },
+  {
+    "argument_id": "topic::ponzi_scheme",
+    "score": 0.9057
+  },
+  {
+    "argument_id": "topic::embezzlement",
+    "score": 0.9055
+  },
+  {
+    "argument_id": "charge::exchange_act_s_15_b_6",
+    "score": 0.905
+  },
+  {
+    "argument_id": "topic::wire_fraud",
+    "score": 0.9039
+  },
+  {
+    "argument_id": "scheme::insider_trading",
+    "score": 0.9038
+  },
+  {
+    "argument_id": "charge::exchange_act_s_21_d_3",
+    "score": 0.9031
+  },
+  {
+    "argument_id": "charge::exchange_act_s_15_c",
+    "score": 0.9029
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_1",
+    "score": 0.9022
+  },
+  {
+    "argument_id": "topic::fcpa",
+    "score": 0.9019
+  },
+  {
+    "argument_id": "topic::inv_adviser_misconduct",
+    "score": 0.9015
+  },
+  {
+    "argument_id": "charge::exchange_act_s_21c",
+    "score": 0.9009
+  },
+  {
+    "argument_id": "charge::rule_13d_1",
+    "score": 0.8997
+  },
+  {
+    "argument_id": "charge::securities_act_s_17_a_3",
+    "score": 0.8992
+  },
+  {
+    "argument_id": "charge::advisers_act_s_204",
+    "score": 0.899
+  },
+  {
+    "argument_id": "charge::securities_act_s_15_b",
+    "score": 0.8986
+  },
+  {
+    "argument_id": "charge::exchange_act_s_2l_d_3",
+    "score": 0.8986
+  },
+  {
+    "argument_id": "charge::advisers_act_s_206_2",
+    "score": 0.8984
+  },
+  {
+    "argument_id": "charge::exchange_act_s_13_d",
+    "score": 0.8979
+  },
+  {
+    "argument_id": "charge::exchange_act_s_15_a_1",
+    "score": 0.8968
+  },
+  {
+    "argument_id": "topic::offering_fraud",
+    "score": 0.8966
+  },
+  {
+    "argument_id": "charge::rule_16a_3",
+    "score": 0.8965
+  },
+  {
+    "argument_id": "charge::advisers_act_s_209",
+    "score": 0.8964
+  },
+  {
+    "argument_id": "charge::securities_act_s_17_a_2",
+    "score": 0.8963
+  },
+  {
+    "argument_id": "charge::advisers_act_s_209_d",
+    "score": 0.8962
+  },
+  {
+    "argument_id": "charge::exchange_act_s_16_a",
+    "score": 0.8956
+  },
+  {
+    "argument_id": "charge::advisers_act_s_206_1",
+    "score": 0.8953
+  },
+  {
+    "argument_id": "charge::securities_act_s_17_b",
+    "score": 0.8948
+  },
+  {
+    "argument_id": "charge::advisers_act_s_214",
+    "score": 0.8936
+  },
+  {
+    "argument_id": "charge::exchange_act_s_9_a_1",
+    "score": 0.891
+  },
+  {
+    "argument_id": "charge::securities_act_s_17_a_1",
+    "score": 0.8908
+  },
+  {
+    "argument_id": "charge::rule_10b_5_c",
+    "score": 0.8907
+  },
+  {
+    "argument_id": "charge::rule_10b_5_a",
+    "score": 0.8903
+  },
+  {
+    "argument_id": "charge::exchange_act_s_21_d_5",
+    "score": 0.8903
+  },
+  {
+    "argument_id": "charge::exchange_act_s_20_b",
+    "score": 0.8898
+  },
+  {
+    "argument_id": "admission::pleaded_guilty",
+    "score": 0.8896
+  },
+  {
+    "argument_id": "scheme::unregistered_offering",
+    "score": 0.8888
+  },
+  {
+    "argument_id": "charge::securities_act_s_5",
+    "score": 0.8887
+  },
+  {
+    "argument_id": "charge::securities_act_s_20_e",
+    "score": 0.8835
+  },
+  {
+    "argument_id": "charge::advisers_act_s_209_e",
+    "score": 0.8834
+  },
+  {
+    "argument_id": "charge::exchange_act_s_21_a",
+    "score": 0.8826
+  },
+  {
+    "argument_id": "charge::exchange_act_s_1o_b",
+    "score": 0.882
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_13d_1",
+    "score": 0.8819
+  },
+  {
+    "argument_id": "charge::advisers_act_s_202_11",
+    "score": 0.8796
+  },
+  {
+    "argument_id": "scheme::pump_and_dump",
+    "score": 0.8791
+  },
+  {
+    "argument_id": "charge::securities_act_s_2_a_1",
+    "score": 0.8787
+  },
+  {
+    "argument_id": "topic::cherry_picking",
+    "score": 0.8771
+  },
+  {
+    "argument_id": "charge::inv_company_act_s_44",
+    "score": 0.8759
+  },
+  {
+    "argument_id": "charge::inv_company_act_s_42_e",
+    "score": 0.8753
+  },
+  {
+    "argument_id": "charge::rule_3_2_d",
+    "score": 0.8748
+  },
+  {
+    "argument_id": "charge::rule_10b_5_b",
+    "score": 0.8747
+  },
+  {
+    "argument_id": "charge::securities_act_s_20_c",
+    "score": 0.8741
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_3a",
+    "score": 0.8729
+  },
+  {
+    "argument_id": "charge::advisers_act_s_207",
+    "score": 0.8727
+  },
+  {
+    "argument_id": "charge::advisers_act_s_202_a_11",
+    "score": 0.8722
+  },
+  {
+    "argument_id": "charge::17_cfr_s_275_206",
+    "score": 0.8714
+  },
+  {
+    "argument_id": "charge::exchange_act_s_30a",
+    "score": 0.871
+  },
+  {
+    "argument_id": "charge::exchange_act_s_21_d_3_a",
+    "score": 0.8703
+  },
+  {
+    "argument_id": "charge::advisers_act_s_209_f",
+    "score": 0.8699
+  },
+  {
+    "argument_id": "charge::inv_company_act_s_7_a",
+    "score": 0.8656
+  },
+  {
+    "argument_id": "charge::17_cfr_s_275_204_2",
+    "score": 0.8642
+  },
+  {
+    "argument_id": "charge::rule_17a_3_a",
+    "score": 0.8623
+  },
+  {
+    "argument_id": "charge::rule_13d_2",
+    "score": 0.8588
+  },
+  {
+    "argument_id": "charge::advisers_act_s_206_4",
+    "score": 0.8578
+  },
+  {
+    "argument_id": "charge::securities_act_s_4_2",
+    "score": 0.8537
+  },
+  {
+    "argument_id": "charge::advisers_act_s_204_a",
+    "score": 0.8525
+  },
+  {
+    "argument_id": "charge::advisers_act_s_203",
+    "score": 0.8484
+  },
+  {
+    "argument_id": "charge::exchange_act_s_17_a",
+    "score": 0.8481
+  },
+  {
+    "argument_id": "charge::rule_17a_3",
+    "score": 0.8477
+  },
+  {
+    "argument_id": "charge::17_cfr_s_202_5",
+    "score": 0.8444
+  },
+  {
+    "argument_id": "charge::rule_3_2_e",
+    "score": 0.844
+  },
+  {
+    "argument_id": "charge::securities_act_s_8",
+    "score": 0.8429
+  },
+  {
+    "argument_id": "charge::advisers_act_s_203a",
+    "score": 0.8425
+  },
+  {
+    "argument_id": "charge::sox_s_304_a",
+    "score": 0.8423
+  },
+  {
+    "argument_id": "charge::sox_s_308_a",
+    "score": 0.841
+  },
+  {
+    "argument_id": "charge::exchange_act_s_15_b_7",
+    "score": 0.8392
+  },
+  {
+    "argument_id": "charge::exchange_act_s_15_c_1",
+    "score": 0.8384
+  },
+  {
+    "argument_id": "charge::exchange_act_s_17_a_1",
+    "score": 0.8365
+  },
+  {
+    "argument_id": "charge::exchange_act_s_10a",
+    "score": 0.8357
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_144",
+    "score": 0.8329
+  },
+  {
+    "argument_id": "charge::exchange_act_s_3_a_4",
+    "score": 0.8313
+  },
+  {
+    "argument_id": "charge::17_cfr_s_5240_10b_51",
+    "score": 0.8292
+  },
+  {
+    "argument_id": "topic::pump_and_dump",
+    "score": 0.829
+  },
+  {
+    "argument_id": "charge::advisers_act_s_203_f",
+    "score": 0.8284
+  },
+  {
+    "argument_id": "charge::exchange_act_s_15b_c_1",
+    "score": 0.8194
+  },
+  {
+    "argument_id": "charge::rule_16a_2",
+    "score": 0.8112
+  },
+  {
+    "argument_id": "charge::securities_act_s_3_a_10",
+    "score": 0.8092
+  },
+  {
+    "argument_id": "charge::rule_15d_14",
+    "score": 0.8054
+  },
+  {
+    "argument_id": "charge::exchange_act_s_17_b",
+    "score": 0.801
+  },
+  {
+    "argument_id": "charge::exchange_act_s_21_d_6_a",
+    "score": 0.7831
+  },
+  {
+    "argument_id": "charge::securities_act_s_4_1",
+    "score": 0.7748
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_17a_3",
+    "score": 0.7718
+  },
+  {
+    "argument_id": "charge::17_cfr_s_201_111",
+    "score": 0.767
+  },
+  {
+    "argument_id": "charge::rule_2_02_b",
+    "score": 0.7629
+  },
+  {
+    "argument_id": "charge::securities_act_s_20_d_2",
+    "score": 0.761
+  },
+  {
+    "argument_id": "charge::inv_company_act_s_34_b",
+    "score": 0.761
+  },
+  {
+    "argument_id": "charge::securities_act_s_20_g_1",
+    "score": 0.7138
+  },
+  {
+    "argument_id": "charge::17_cfr_s_201_360",
+    "score": 0.7055
+  },
+  {
+    "argument_id": "charge::17_cfr_s_201_250",
+    "score": 0.6806
+  },
+  {
+    "argument_id": "charge::exchange_act_s_4c",
+    "score": 0.6241
+  },
+  {
+    "argument_id": "charge::17_cfr_s_240_13d",
+    "score": 0.5878
+  },
+  {
+    "argument_id": "charge::17_cfr_s_201_600",
+    "score": 0.4549
+  },
+  {
+    "argument_id": "charge::exchange_act_s_4c_a_2",
+    "score": 0.3812
+  }
+]
